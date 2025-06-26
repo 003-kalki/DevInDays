@@ -7,7 +7,7 @@ import FinalCTA from "./components/pages/FinalCTA";
 import HowItWorks from "./components/pages/HowItWorks";
 import Pricing from "./components/pages/Pricing";
 import WhatWeDo from "./components/pages/WhatWeDo";
-import WhyUs from "./components/pages/WhyUS";
+import WhyUs from './components/pages/WhyUs';
 import RealProjects from "./components/pages/RealProjects";
 import idea from "./assets/idea.jpg";
 import code from "./assets/code.jpg";
